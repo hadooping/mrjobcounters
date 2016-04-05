@@ -12,7 +12,7 @@ public class JobOutputParser {
 
     public static void main(String[] args) {
 
-          String filePath = "/Users/ruchitvenkatesh/dummy/job-trace.json"; //args[0];
+          String filePath = "/Users/venkateshramasamy/dummy/job-trace.json";
 
         try {
 
